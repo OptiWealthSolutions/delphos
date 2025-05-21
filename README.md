@@ -56,4 +56,6 @@ chmod +x setup.sh
 
 ### Executer le fichier
 
-`source .venv/bin/activate`
+```
+source .venv/bin/activate
+```
