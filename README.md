@@ -49,9 +49,11 @@ cd delphos
 
 ### Rendre executable
 
-'''chmod +x setup.sh
-./setup.sh'''
+```
+chmod +x setup.sh
+./setup.sh
+```
 
 ### Executer le fichier
 
-'''source .venv/bin/activate'''
+`source .venv/bin/activate`
