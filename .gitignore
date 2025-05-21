@@ -1,0 +1,14 @@
+# Ignorer l'environnement virtuel
+.venv/
+
+# Ignorer fichiers système
+__pycache__/
+*.pyc
+
+# Ignorer les notebooks temporaires ou sauvegardes
+*.ipynb_checkpoints
+*.swp
+
+# Ignorer les fichiers de log ou cache
+*.log
+logs/

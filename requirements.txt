@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+yfinance
+scipy
+ta 
+seaborn 
+vectorbt
+statsmodels
+telpot
+         # pour les indicateurs techniques
