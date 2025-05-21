@@ -8,4 +8,5 @@ seaborn
 vectorbt
 statsmodels
 telpot
-         # pour les indicateurs techniques
+jupyter
+pykernel        # pour les indicateurs techniques
